@@ -1,0 +1,19 @@
+﻿# Большие файлы
+*.xlsx
+*.csv
+financials_full.json
+parsed_progress.json
+city_coordinates.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
